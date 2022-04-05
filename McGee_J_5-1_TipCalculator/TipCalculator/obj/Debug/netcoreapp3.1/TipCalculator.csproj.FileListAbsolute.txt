@@ -1,0 +1,202 @@
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.exe
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.deps.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.dll
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.Manifest.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.input.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.output.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorCoreGenerate.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.dll
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.genruntimeconfig.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CopyComplete
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.exe
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.deps.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.dll
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.AssemblyReference.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.Manifest.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.input.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.output.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorCoreGenerate.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cs
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.dll
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.genruntimeconfig.cache
+C:\CSCC\CSCI-2630\S p r i n g  2 0 2 2\Assignments\Exercise-1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CopyComplete
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.exe
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.deps.json
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.json
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.dll
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cs
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.Manifest.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.input.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.output.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorCoreGenerate.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cs
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.genruntimeconfig.cache
+C:\Users\jbird\Desktop\Exercise 1\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CopyComplete
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.exe
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.deps.json
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.json
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.dll
+D:\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.AssemblyReference.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cs
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.Manifest.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.xml
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\scopedcss\bundle\TipCalculator.styles.css
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.input.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.output.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorCoreGenerate.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cs
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.dll
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.pdb
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.genruntimeconfig.cache
+D:\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CopyComplete
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.exe
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.deps.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.dll
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.Manifest.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.xml
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\scopedcss\bundle\TipCalculator.styles.css
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.input.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.output.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorCoreGenerate.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cs
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.genruntimeconfig.cache
+C:\Users\jbird\Desktop\School Stuff\C# 2\Exercise 1\Final Version 5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CopyComplete
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.StaticWebAssets.xml
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.exe
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.deps.json
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.json
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.dll
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cs
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.Manifest.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.input.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.output.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorCoreGenerate.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cs
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.genruntimeconfig.cache
+C:\Users\jbird\Desktop\School\C# 2\McGee_J_5-1_TipCalculator\McGee_J_5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CopyComplete
